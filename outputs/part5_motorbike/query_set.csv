@@ -1,0 +1,11 @@
+query_id,category,split,selected_after_visual_review
+000427,motorbike,validation,True
+001201,motorbike,validation,True
+001617,motorbike,validation,True
+002567,motorbike,validation,True
+003760,motorbike,validation,True
+004275,motorbike,validation,True
+005996,motorbike,validation,True
+006532,motorbike,validation,True
+007647,motorbike,validation,True
+009781,motorbike,validation,True

@@ -1,0 +1,4 @@
+K,corpus_images,relevant_motorbikes,feature_dimension,mAP,P@10,queries,similarity
+256,2179,120,1024,0.1013,0.22,10,L1-normalized histogram intersection
+512,2179,120,2048,0.1025,0.21,10,L1-normalized histogram intersection
+1024,2179,120,4096,0.1013,0.23,10,L1-normalized histogram intersection
